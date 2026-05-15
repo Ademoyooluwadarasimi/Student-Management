@@ -1,0 +1,7 @@
+C:\Users\daras\OneDrive\Documents\CODE\Studentmanagement\Studentmanagement\bin\Debug\Studentmanagement.exe.config
+C:\Users\daras\OneDrive\Documents\CODE\Studentmanagement\Studentmanagement\bin\Debug\Studentmanagement.exe
+C:\Users\daras\OneDrive\Documents\CODE\Studentmanagement\Studentmanagement\bin\Debug\Studentmanagement.pdb
+C:\Users\daras\OneDrive\Documents\CODE\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.csproj.AssemblyReference.cache
+C:\Users\daras\OneDrive\Documents\CODE\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.csproj.CoreCompileInputs.cache
+C:\Users\daras\OneDrive\Documents\CODE\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.exe
+C:\Users\daras\OneDrive\Documents\CODE\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.pdb
